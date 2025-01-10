@@ -2,7 +2,7 @@
 <br>
 :heart: Sou apaixonado por tecnologias e amo aprender novas tendências. 
 <br>
-📕 Cursando MBA em Arquitetura FullCycle 	
+📘 Cursando MBA em Arquitetura FullCycle 	
 <br>
 Veja no meu Repositorio um pouco dos projetos que ja Desenvolvi.
 
@@ -39,5 +39,5 @@ Veja no meu Repositorio um pouco dos projetos que ja Desenvolvi.
  
 <div>  
  <a href="https://www.linkedin.com/in/elielbatiston/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:batistondeoliveira@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:batistondeoliveira@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 </div>
