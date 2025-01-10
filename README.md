@@ -1,90 +1,43 @@
-<h1 align="center">Olá 👋, sou o Eliel Batiston de Oliveira</h1>
-<h3 align="center">Desenvolvedor de software com foco no back-end</h3>
+# Olá sou Desenvolvedor FullStack Eliel Batiston
+<br>
+:heart: Sou apaixonado por tecnologias e amo aprender novas tendências. 
+<br>
+📕 Cursando MBA em Arquitetura FullCycle 	
+<br>
+Veja no meu Repositorio um pouco dos projetos que ja Desenvolvi.
 
-- :heart: Sou apaixonado por tecnologias e amo aprender novas tendências. 
-- 🌱 Atualmente estudando novos conteúdos sobre:
-	- Clean Architecture
-	- Mensagerias
-	- Flutter
-	- Kotlin
-	- WebFlux
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="eliel-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" />
 	
+  <img align="center" alt="eliel-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" />
+  <img align="center" alt="eliel-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" />	
+  <img align="center" alt="eliel-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" />
 
-- :books: Aprimorando os conhecimentos em:
-	- Spring Security 
-	- Spring Cloud
-	- Jenkins
-	- Docker e Docker Swarm
-	- React e React Native
+  <img align="center" alt="eliel-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="eliel-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" />
+  
+  <img align="center" alt="eliel-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
+  <img align="center" alt="eliel-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 
-- Tecnologias e ferramentas
+  <img align="center" alt="eliel-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  
+  <img align="center" alt="eliel-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  
+  <img align="center" alt="eliel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="eliel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="eliel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="eliel-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="eliel-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="eliel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="eliel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  
+  <img align="center" alt="eliel-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
 
-<p align="left">
-	<a href="#" title="Java">
-	    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="45" height="45" align="center"/>  
-	</a>
-	<a href="#" title="Spring Framework">
-	    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Framework" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Git">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Jenkins">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Docker">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Nginx">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45" align="center"/> 	
-	</a>
-	<a href="#" title="AWS">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Intellij">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Webstorm">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="Webstorm" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="RabbitMQ"> 	
-		<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="MySQL">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Oracle">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="ORACLE" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="React Native">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="45" height="45" align="center"/> 
-	</a>
-	<a href="#" title="Angular 8+">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular 8" width="45" height="45" align="center"/> 
-	</a>
-</p>
-
-
-- LinkedIn
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="_blank" title="LinkedIn">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="45" width="45" align="center"/>
-    </a>
-</p>
-
-
-<!--
-**eckelp/eckelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+ 
+<div>  
+ <a href="https://www.linkedin.com/in/elielbatiston/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:batistondeoliveira@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
